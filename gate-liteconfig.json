@@ -1,0 +1,13 @@
+[
+    {
+        "DisplayName": "Configuration Notice",
+        "Category": "Gate Lite Settings",
+        "Description": "Gate Lite is configured via config.yml in the gate/ directory. Use the File Manager to edit routes, add backend servers, and configure domain routing. Gate hot-reloads the config file automatically — no restart required after editing.",
+        "Keywords": "config,help,info",
+        "FieldName": "config-notice",
+        "InputType": "hidden",
+        "ParamFieldName": "ConfigNotice",
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
